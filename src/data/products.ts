@@ -1,0 +1,121 @@
+export const commerceProducts = [
+  {
+    id: '1',
+    name: 'Bơ Đà Lạt',
+    // color: 'White',
+    inStock: true,
+    description: 'This is the first product',
+    image:
+      'https://ucarecdn.com/ed2843ce-5421-443d-a285-8cd5a9789905/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 199999,
+    category: 'vegetable',
+    quantity: 0,
+  },
+  {
+    id: '2',
+    name: 'Trà thảo mộc',
+    // color: 'White',
+    inStock: true,
+    description: 'A great second product',
+    image:
+      'https://ucarecdn.com/96caf725-3b4c-478c-be89-7843acaa0077/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 299889,
+    category: 'drink',
+    quantity: 0,
+  },
+  {
+    id: '3',
+    name: 'Ipad vip pro',
+    description: 'Amazing third product',
+    // color: 'White',
+    inStock: true,
+    image:
+      'https://ucarecdn.com/c332a458-4237-46a0-96a0-9407da3d601e/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 910099,
+    category: 'technology',
+    quantity: 0,
+  },
+  {
+    id: '4',
+    name: 'Các loại rau củ',
+    description: 'Another product for testing',
+    // color: 'White',
+    inStock: true,
+    image:
+      'https://ucarecdn.com/5444bc4c-aa3e-49ba-8814-acba7bcd92df/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 1499999,
+    category: 'vegetable',
+    quantity: 0,
+  },
+  {
+    id: '5',
+    name: 'Thịt ba chỉ',
+    description: 'Fifth product in the list',
+    // color: 'White',
+    inStock: true,
+    image:
+      'https://ucarecdn.com/938ad6d0-66e5-4dc4-935b-3fe5d0ce7a70/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 24000213,
+    category: 'meat',
+    quantity: 0,
+  },
+  {
+    id: '6',
+    name: 'Bò Úc',
+    description: 'Sixth product for your needs',
+    image:
+      'https://ucarecdn.com/7511efc8-9b46-4d6f-8051-f4cd4ba4c6cc/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 4912399,
+    category: 'meat',
+    quantity: 0,
+  },
+  {
+    id: '7',
+    name: 'Áo phông 7 màu',
+    description: 'Lucky number seven product',
+    image:
+      'https://ucarecdn.com/e08879a8-6b06-4c47-8efe-bbf2f617c9f4/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 3912399,
+    // color: 'White',
+    inStock: true,
+    category: 'cloth',
+    quantity: 0,
+  },
+  {
+    id: '8',
+    name: 'Nhẫn Kim Cương',
+    description: 'Eighth product for your collection',
+    image:
+      'https://ucarecdn.com/2b231158-b467-4733-8e32-8f1dc1e8e47c/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 111299,
+    // color: 'White',
+    inStock: true,
+    category: 'jewelry',
+    quantity: 0,
+  },
+  {
+    id: '9',
+    name: 'Thịt Nạc (Heo)',
+    description: 'Ninth product for your choice',
+    color: 'White',
+    inStock: true,
+    image:
+      'https://ucarecdn.com/a4d9097a-c5dc-454a-bf7f-d995f4298a50/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 1799999,
+    category: 'meat',
+    quantity: 0,
+  },
+  {
+    id: '10',
+    name: 'Nhẫn Đôi Kim Cương',
+    color: 'White',
+    inStock: true,
+    description: 'Tenth product to consider',
+    image:
+      'https://ucarecdn.com/a4851643-4e6c-491a-9720-b030c859d9e3/-/scale_crop/320x239/-/format/auto/-/quality/smart_retina/',
+    price: 29121299,
+    category: 'jewelry',
+
+    quantity: 0,
+  },
+];
